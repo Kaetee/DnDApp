@@ -1,0 +1,30 @@
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\bin\Debug\DnDApp.exe.config
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\bin\Debug\DnDApp.exe
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\bin\Debug\DnDApp.pdb
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\MainWindow.g.cs
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\App.g.cs
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp_MarkupCompile.cache
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp_MarkupCompile.lref
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\MainWindow.baml
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.g.resources
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.Properties.Resources.resources
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.csproj.GenerateResource.Cache
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.exe
+C:\Users\Marcel\Documents\Visual Studio 2017\Projects\DnDApp\DnDApp\obj\Debug\DnDApp.pdb
+C:\Users\marce\Desktop\DnDApp\DnDApp\bin\Debug\DnDApp.exe.config
+C:\Users\marce\Desktop\DnDApp\DnDApp\bin\Debug\DnDApp.exe
+C:\Users\marce\Desktop\DnDApp\DnDApp\bin\Debug\DnDApp.pdb
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.csprojResolveAssemblyReference.cache
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\MainWindow.g.cs
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\App.g.cs
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp_MarkupCompile.cache
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp_MarkupCompile.lref
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\MainWindow.baml
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.g.resources
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.Properties.Resources.resources
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.csproj.GenerateResource.Cache
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.exe
+C:\Users\marce\Desktop\DnDApp\DnDApp\obj\Debug\DnDApp.pdb
